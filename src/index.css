@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f7f5e9; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { font: inherit; }
+button:focus-visible, a:focus-visible { outline: 3px solid #bc7565; outline-offset: 3px; }
